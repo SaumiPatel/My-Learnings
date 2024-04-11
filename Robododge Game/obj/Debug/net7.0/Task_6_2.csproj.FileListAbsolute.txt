@@ -1,0 +1,15 @@
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\bin\Debug\net7.0\Task_6_2.exe
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\bin\Debug\net7.0\Task_6_2.deps.json
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\bin\Debug\net7.0\Task_6_2.runtimeconfig.json
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\bin\Debug\net7.0\Task_6_2.dll
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\bin\Debug\net7.0\Task_6_2.pdb
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.csproj.AssemblyReference.cache
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.AssemblyInfoInputs.cache
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.AssemblyInfo.cs
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.csproj.CoreCompileInputs.cache
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.dll
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\refint\Task_6_2.dll
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.pdb
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\Task_6_2.genruntimeconfig.cache
+C:\Users\Saumil1103\Desktop\SIT771 projects\Task 6.2\obj\Debug\net7.0\ref\Task_6_2.dll
